@@ -1,0 +1,42 @@
+.true {
+    font-family: 'Rock Salt', cursive;
+    margin-top: 20px;
+    text-align: center;    
+    font-size: 30px;
+  }
+
+   .images {
+    width: 20%;
+    margin-bottom: 50px;
+  }
+
+  .false {
+    font-family: 'Rock Salt', cursive;
+    text-align: center;    
+  }
+
+  .wrong {
+    font-size: 30px;
+  }
+
+  .answer {
+    font-size: 20px;
+  }
+
+ #next-true, #next-false {
+  margin-top:10px;
+  height: auto;
+  font-family: 'Chewy', cursive;
+  font-size: 20px;
+  text-align: center;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 0;
+  border-radius:10px;
+  padding: 10px 20px;
+ }
+  
+  
+
+  
+  

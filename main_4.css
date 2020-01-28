@@ -1,0 +1,26 @@
+ul  {
+  font-family: 'Righteous', cursive;
+  font-size: 20px;
+  }
+  
+h2 {
+  text-align:center;
+  font-family: 'Righteous', cursive;
+  font-size: 50px;
+}
+
+button {
+  display:block;
+  margin-top:10px;
+  height: auto;
+  font-family: 'Chewy', cursive;
+  font-size: 20px;
+  text-align: center;
+  border: 0;
+  cursor: pointer;
+  margin-bottom: 0;
+  border-radius:10px;
+  padding: 10px 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
